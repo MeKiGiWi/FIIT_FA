@@ -1,11 +1,3 @@
-<div align="center">
-Посетитель номер: 
-<br/>
-
-<img src="https://count.getloli.com/@fa-labs2026?name=fa-labs2026&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" width="500">
-
-</div>
-
 ## Структура проекта
 
 Репозиторий разделен на логические этапы реализации (лабораторные работы):
